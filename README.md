@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pjfederico 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m currently learning Front End Development and after that the rest of Web Development which is the Back-End.
 - 💞️ I’m looking to collaborate on Projects that have a connection to my interest.
 - 📫 How to reach me @ paulfederico1995@gmail.com
 
